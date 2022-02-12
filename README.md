@@ -1,4 +1,4 @@
-## Oiii eu sou a Osvaldo Wafulua, criador de conteúdo de programação e tecnologia!
+## Olá sou Osvaldo Wafulua, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/osvaldowafulua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldowafulua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
