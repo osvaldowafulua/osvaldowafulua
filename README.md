@@ -61,11 +61,11 @@ Sou **criador de conteúdo de programação e tecnologia**, focado em desenvolvi
 ### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2338bdf8" width="24" height="24" align="center" /> Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osvaldowafulua&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osvaldowafulua&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldowafulua&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=osvaldowafulua&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
