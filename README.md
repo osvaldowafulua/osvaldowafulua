@@ -80,7 +80,7 @@ Sou **criador de conteúdo de programação e tecnologia**, focado em desenvolvi
 
 <div align="center">
   <a href="https://github.com/osvaldowafulua">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=osvaldowafulua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=osvaldowafulua&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldowafulua&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
@@ -89,7 +89,15 @@ Sou **criador de conteúdo de programação e tecnologia**, focado em desenvolvi
 
 <div align="center">
   <a href="https://github.com/osvaldowafulua">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldowafulua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=osvaldowafulua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/osvaldowafulua">
+    <img src="https://github-profile-trophy.vercel.app/?username=osvaldowafulua&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
